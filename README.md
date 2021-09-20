@@ -2,7 +2,7 @@
 
 Data Science Bootcamp Leader:
 
-Dr Sefki Kolozali sefki.kolozali@essex.ac.uk Lecturer in Embedded and Intelligent Systems
+Dr Sefki Kolozali, sefki.kolozali@essex.ac.uk, Lecturer in Embedded and Intelligent Systems
 
 Meet our GLAs:
 
